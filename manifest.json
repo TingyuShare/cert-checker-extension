@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Certificate Expiry Checker",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Displays SSL certificate expiry information and highlights the search bar if expiry is near.",
   "permissions": [
     "tabs",
